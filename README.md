@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Najeeb Said.
 - 🌱 I’m currently a student of BS Software Engineering at COMSATS university Islamabad - Abbottabad campus
-- 👀 I’m interested in Cyber Security, Database Management and Web Application Development.
+- 👀 I’m interested in Object Oriented Programming, Desktop & Mobile Application development.
 - 💞️ I’m looking forward to learn new things every other day. 
-- 📫 How to reach me tcanjb@gmail.com || tcanjb@yahoo.com
+- 📫 Contact Me: tcanjb@gmail.com || tcanjb@yahoo.com
