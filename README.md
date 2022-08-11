@@ -4,4 +4,4 @@
 - 👀 I’m interested in Object Oriented Programming, Desktop & Mobile Application development.
 
 ## Contact Me
-<a href="https://mail.google.com/mail/?extsrc=mailto&mailto:tcanjb%40gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://mail.google.com/mail/?fs=1&tf=cm&source=mailto&to=tcanjb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
