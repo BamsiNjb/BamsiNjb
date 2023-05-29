@@ -1,9 +1,18 @@
 
 # <img src="resources\Hi.gif" height="30px">**Najeeb Said** here!
-- 🌏 From Swat, Pakistan.
-- 🏫 Studying at [CUI ATD](https://www.cuiatd.edu.pk)
-- 📚 BS Software Engineering
 
+- 🎓 Passionate software engineering student on a quest for knowledge.
+- 💻 Enthusiastic about building robust applications with a focus on React Native.
+- ⚛️ Deep diving into the world of React Native, creating seamless cross-platform experiences.
+- 🌐 Web development adventurer, trying to craft captivating websites with HTML, CSS, and JS.
+- ☕ Java enthusiast, building robust applications with an object-oriented twist.
+- 📚 Constantly learning and expanding my skills to stay ahead in the dynamic software industry.
+- 🚀 GitHub is my creative playground, where projects come to life and ideas take flight.
+- 💡 Problem solver, seeking innovative solutions that make a positive impact.
+
+_Explore my repositories, unravel the code, and witness my growth as a software engineer._<br>
+_Let's connect, collaborate, and create something extraordinary! 🌟_<br>
+_Thanks for dropping by! Happy coding! 🚀✨_
 <br>
 
 # 🐱‍👤Familiar with
