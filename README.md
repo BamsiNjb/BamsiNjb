@@ -28,4 +28,4 @@
 
 # 📊Other Stats
 
-<img src="resources\work-in-progress.png" height="30px" alt="Under Construction">
+<img src="resources\work-in-progress.png" height="100px" alt="Under Construction">
