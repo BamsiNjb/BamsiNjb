@@ -28,5 +28,4 @@
 
 # 📊Other Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NjbSyd)
-![Stats](https://github-readme-stats.vercel.app/api?username=NjbSyd)
+<img src="resources\work-in-progress.png" height="30px" alt="Under Construction">
