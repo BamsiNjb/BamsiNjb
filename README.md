@@ -35,6 +35,6 @@ _Thanks for dropping by! Happy coding! 🚀✨_
 
 <br>
 
-<!--# 📊Other Stats
+# 📊Other Stats
 
-<img src="resources\work-in-progress.png" height="100px" alt="Under Construction">-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njbsyd)]()
